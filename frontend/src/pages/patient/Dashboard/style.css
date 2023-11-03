@@ -1,0 +1,15 @@
+@media only screen and (max-width: 530px){
+    .CCSS{
+        font-size: 0.85em;
+    }
+    .sSize{
+        font-size: 0.7em;
+    }
+    .size{
+        font-size: 1em;
+    }
+    .styles{
+        display: none;
+        order: 2!important;
+    }
+}
